@@ -3,4 +3,5 @@ bluetooth.device.default_name=Galaxy M31s
 
 ## Fingerpint
 ro.vendor.fingerprint.type=side
+ro.vendor.fingerprint.sensor_location=1080|890|130
 ro.vendor.fingerprint.supports_gestures=true
