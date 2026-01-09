@@ -1,4 +1,4 @@
-# Proprietary files - from Samsung package version M317FXXU3DWB3, unless pinned
+# Proprietary files - from Samsung package version M317FXXS6DXE6, unless pinned
 
 ## Sensors
 vendor/etc/sensors/hals.conf
